@@ -1,0 +1,45 @@
+{
+  "_from": "cordova-plugin-filechooser-alwaysmkt@^1.2.0",
+  "_id": "cordova-plugin-filechooser-alwaysmkt@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-ycL9ML3wlRQ8wfK7vCG8gobv1f3VIdO52m0LA9mPSzLblbu0AXJs89yCRxZB87+08/V96qBxrmkxMsMmVYu5wA==",
+  "_location": "/cordova-plugin-filechooser-alwaysmkt",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cordova-plugin-filechooser-alwaysmkt@^1.2.0",
+    "name": "cordova-plugin-filechooser-alwaysmkt",
+    "escapedName": "cordova-plugin-filechooser-alwaysmkt",
+    "rawSpec": "^1.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.2.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-filechooser-alwaysmkt/-/cordova-plugin-filechooser-alwaysmkt-1.2.0.tgz",
+  "_shasum": "3a3a3d9c5bef733076f1f6b59e465f60a0d96577",
+  "_spec": "cordova-plugin-filechooser-alwaysmkt@^1.2.0",
+  "_where": "/Users/isitalways/Documents/Jason/retailAIM_v4_d/retailAIM_v5_d/5/aim5_Native_v5",
+  "author": "Jason", 
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-filechooser-alwaysmkt",
+    "platforms": [
+      "android",
+      "windows"
+    ]
+  },
+  "deprecated": false,
+  "description": "This is a fork of cordova-plugin-filechooser",
+  "homepage": "https://github.com/ihadeed/cordova-filechooser#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "cordova-plugin-filechooser-alwaysmkt",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.0"
+}
